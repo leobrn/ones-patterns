@@ -1,47 +1,56 @@
 ---
 sidebar_position: 1
+sidebar_label: Введение
+title: Введение
 ---
+## Паттерны
 
-# Tutorial Intro
+1. [Стратегия](./Паттерны/Стратегия.md)
+2. [Фабрика](./Паттерны/Фабрика.md)
+3. [Шаблонный метод](./Паттерны/ШаблонныйМетод.md)
+4. [Фасад](./Паттерны/Фасад.md)
+5. [Адаптер](./Паттерны/Адаптер.md)
+6. [Цепочка обязанностей](./Паттерны/ЦепочкаОбязанностей.md)
+7. [Состояние](./Паттерны/Состояние.md)
+8. [Мост](./Паттерны/Мост.md)
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Малоприменимы в 1С:
+- [Одиночка](./Паттерны/Одиночка.md)
+- [Команда](./Паттерны/Команда.md)
+- [Строитель](./Паттерны/Строитель.md)
+- [Декоратор](./Паттерны/Декоратор.md)
+- [Заместитель](./Паттерны/Заместитель.md)
+- [Наблюдатель](./Паттерны/Наблюдатель.md)
+- [Посредник](./Паттерны/Посредник.md)
+- [Прототип](./Паттерны/Прототип.md)
+- [Хранитель](./Паттерны/Хранитель.md)
+- [Посетитель](./Паттерны/Посетитель.md)
+- [Итератор и Компоновщик](./Паттерны/ИтераторКомпоновщик.md)
 
-## Getting Started
+При использовании паттернов проектирования следует учитывать, что они могут видоизменяться и адаптироваться к конкретным потребностям и условиям разработки. 
 
-Get started by **creating a new site**.
+Не стоит ожидать, что реализация паттерна в коде будет полностью соответствовать его "каноническому" описанию. 
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+Важно понимать суть и основную идею паттерна, а конкретные детали реализации могут гибко изменяться. 
 
-### What you'll need
+Главное - чтобы модифицированный паттерн по-прежнему решал те задачи, для которых он предназначен, сохраняя свои ключевые преимущества. Творческий и гибкий подход к использованию устоявшихся паттернов часто оправдан и полезен на практике.
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+## Классификация
 
-## Generate a new site
+**Порождающие паттерны** связаны с созданием экземпляров объектов. Все они обеспечивают средства логической изоляции клиента от создаваемых объектов:
 
-Generate a new Docusaurus site using the **classic template**.
+*Одиночка, Фабричный метод, Абстрактная фабрика, Строитель, Прототип.*
 
-The classic template will automatically be added to your project after you run the command:
+**Структурные паттерны** объединяют классы или объекты в более крупные структуры:
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+*Фасад, Адаптер, Заместитель, Декоратор, Компоновщик, Мост, Приспособленец.*
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+**Поведенческие паттерны** взаимодействуют и распределяют обязанности между классами и объектами:
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+*Стратегия, Состояние, Шаблонный метод, Команда, Наблюдатель, Посетитель, Посредник, Хранитель, Интерпретатор, Цепочка Обязаннсотей.*
 
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+## Дополнительно
+- [Принципы](./Дополнительно/Принципы.md)
+- [MVC (Модель-Представление-Контроллер)](./Дополнительно/MVC.md)
+- [(Видео) Практика чистого кода на 1С](https://www.youtube.com/live/aI0Pir8UCec?si=SS7G0A62wKNccu5o)
+- [(Видео) Design Patterns в 1С. Рассматриваем и пробуем реализовать популярные GoF-паттерны](https://www.youtube.com/live/3cI1AVBBGTY?si=6rZ3aHfEDlmEiMJ2)
