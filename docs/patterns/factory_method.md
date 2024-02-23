@@ -2,7 +2,7 @@
 sidebar_position: 2
 sidebar_label: Фабрика
 title: Фабрика (FactoryMethod)
-description: Фабрика (FactoryMethod)
+description: Factory method
 ---
 ## Теория
 **Фабричный метод** - определяет общий интерфейс создания объекта, но позволяет субклассам выбрать создаваемый экземпляр.

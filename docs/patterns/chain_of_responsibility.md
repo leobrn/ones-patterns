@@ -2,7 +2,7 @@
 sidebar_position: 6
 sidebar_label: Цепочка обязанностей
 title: Цепочка обязанностей (Chain of responsibility)
-description: Цепочка обязанностей (Chain of responsibility)
+description: Chain of responsibility
 ---
 ## Теория
 **Цепочка обязанностей** - используется для пошаговой обработки запроса, когда на каждом шаге выполняются разные действия, независимые друг от друга.

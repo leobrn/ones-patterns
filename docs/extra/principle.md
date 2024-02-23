@@ -2,6 +2,7 @@
 sidebar_position: 2
 sidebar_label: Принципы
 title: Принципы
+description: Принципы
 ---
 ## SOLID
 

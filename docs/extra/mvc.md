@@ -2,6 +2,7 @@
 sidebar_position: 1
 sidebar_label: MVC
 title: MVC
+description: Model-View-Controller
 ---
 ## Теория
 **MVC** - составной паттерн, состоящий из паттернов **Наблюдатель**, **Стратегия**, **Компоновщик**.
