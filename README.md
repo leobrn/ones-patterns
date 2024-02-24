@@ -1,7 +1,7 @@
 # Примеры использования паттернов в 1С
 ## Документация
 
-[leobrn.github.io/ones-patterns](leobrn.github.io/ones-patterns)
+[leobrn.github.io/ones-patterns](https://leobrn.github.io/ones-patterns/)
 ## Website
 
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
