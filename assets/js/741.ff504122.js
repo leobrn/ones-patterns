@@ -1,0 +1,1 @@
+(self.webpackChunkones_patterns=self.webpackChunkones_patterns||[]).push([[741],{5741:()=>{}}]);
