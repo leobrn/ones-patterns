@@ -2,6 +2,7 @@
   "label": "Дополнительно",
   "position": 3,
   "link": {
+    "slug": "extra",
     "type": "generated-index",
     "description": "Примеры использования паттернов в 1С"
   }
