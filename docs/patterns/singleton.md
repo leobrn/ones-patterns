@@ -13,7 +13,7 @@ description: Singleton
 Пользователи.АвторизованныйПользователь()
 
 ## Примеры
-- https://github.com/zeegin/DesignPatterns/tree/master/Singleton
+- [zeegin:Singleton](https://github.com/zeegin/DesignPatterns/tree/master/Singleton)
 
 ## Код
 ```

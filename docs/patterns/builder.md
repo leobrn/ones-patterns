@@ -16,8 +16,8 @@ description: Builder
 ## БСП
 - 
 ## Примеры
-- https://github.com/zeegin/DesignPatterns/tree/master/Builder
-- https://infostart.ru/1c/articles/1979960/
+- [zeegin:Builder](https://github.com/zeegin/DesignPatterns/tree/master/Builder)
+- [Новый взгляд на управляемые формы](https://infostart.ru/1c/articles/1979960/)
 
 ## Код
 Модуль обработки:

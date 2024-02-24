@@ -13,10 +13,9 @@ description: Strategy
 Реализация печати, вариантов отчета, механизмов проведения в типовых конфигурациях также являются реализациями паттерна стратегия.
 
 ## Примеры
-- https://github.com/zeegin/DesignPatterns/tree/master/Strategy
-- https://pikabu.ru/story/pattern_strategiya_v_1s_10714784
-- https://github.com/1c-syntax/ssl_3_1/blob/master/src/cf/CommonModules/%D0%9E%D1%82%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0SMS/Ext/Module.bsl
-
+- [zeegin:Strategy](https://github.com/zeegin/DesignPatterns/tree/master/Strategy)
+- [Паттерн Стратегия в 1С](https://pikabu.ru/story/pattern_strategiya_v_1s_10714784)
+- [ОбщийМодуль.ОтправкаSMS (БСП)](https://github.com/1c-syntax/ssl_3_1/blob/master/src/cf/CommonModules/%D0%9E%D1%82%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0SMS/Ext/Module.bsl)
 ## Код
 ```
 Функция ЭкспортироватьДанные(Стратегия) Экспорт

@@ -11,7 +11,7 @@ description: State
 - 
 
 ## Примеры
-- https://github.com/zeegin/DesignPatterns/tree/master/State
+- [zeegin:State](https://github.com/zeegin/DesignPatterns/tree/master/State)
 
 ## Код
 В среде 1С это можно реализовать следующим образом:

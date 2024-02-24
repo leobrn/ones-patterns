@@ -38,9 +38,9 @@ description: Factory method
 Получаем провайдера в **МодульОтправкаSMSЧерезПровайдера**.
 
 ## Примеры
-- https://github.com/zeegin/DesignPatterns/tree/master/FactoryMethod
-- https://github.com/zeegin/DesignPatterns/tree/master/AbstractFactory
-- https://cs14.pikabu.ru/post_img/big/2023/10/07/4/1696656109156215818.png
+- [zeegin:FactoryMethod](https://github.com/zeegin/DesignPatterns/tree/master/FactoryMethod)
+- [zeegin:AbstractFactory](https://github.com/zeegin/DesignPatterns/tree/master/AbstractFactory)
+- [Фабричный метод для стратегии](https://cs14.pikabu.ru/post_img/big/2023/10/07/4/1696656109156215818.png)
 
 ## Код
 ```

@@ -11,7 +11,7 @@ description: Adapter
 - 
 
 ## Примеры
-- https://github.com/zeegin/DesignPatterns/tree/master/Adapter
+- [zeegin:Adapter](https://github.com/zeegin/DesignPatterns/tree/master/Adapter)
 
 ## Код
 Допустим, у нас есть общий модуль для работы с новым фискальным устройством:

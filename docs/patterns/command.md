@@ -13,8 +13,7 @@ description: Command
 ВыполнитьОбработкуОповещения(Контекст.Оповещение, Параметры)
 ```
 ## Примеры
-- https://github.com/zeegin/DesignPatterns/tree/master/Command
-
+- [zeegin:Command](https://github.com/zeegin/DesignPatterns/tree/master/Command)
 ## Код
 
 ```

@@ -45,7 +45,7 @@ description: Template method
 Таким образом, в общем модуле реализуется скелет алгоритма - шаблонный метод, а некоторые шаги этого алгоритма перекладываются на конкретные методы для реализации специфичной логики.
 
 ## Примеры
-- https://github.com/zeegin/DesignPatterns/tree/master/TemplateMethod
+- [zeegin:TemplateMethod](https://github.com/zeegin/DesignPatterns/tree/master/TemplateMethod)
 
 ## Код
 ```

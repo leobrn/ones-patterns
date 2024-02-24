@@ -12,8 +12,8 @@ description: Chain of responsibility
 ## БСП
 - 
 ## Примеры
-- https://github.com/zeegin/DesignPatterns/tree/master/ChainOfResponsibility
-- https://infostart.ru/1c/articles/851798/
+- [zeegin:ChainOfResponsibility](https://github.com/zeegin/DesignPatterns/tree/master/ChainOfResponsibility)
+- [Принципы ООП в 1С (pattern Chain of responsibility)](https://infostart.ru/1c/articles/851798/)
 ## Код
 Есть механизм обмена с внешними источниками данных.
 

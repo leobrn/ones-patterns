@@ -17,6 +17,5 @@ description: Memento
 - 
 
 ## Примеры
-- https://github.com/zeegin/DesignPatterns/tree/master/Memento
-
+- [zeegin:Memento](https://github.com/zeegin/DesignPatterns/tree/master/Memento)
 ## Код

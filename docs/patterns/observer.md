@@ -11,9 +11,8 @@ description: Observer
 - Примеры на уровне БСП и типовых конфигураций не найдены. На уровне платформы существуют следующие механизмы реализующие данный паттерн: подписки на события и оповещения.
 
 ## Примеры
-- https://github.com/zeegin/DesignPatterns/tree/master/Observer
-- https://infostart.ru/1c/articles/858073/
-
+- [zeegin:Observer](https://github.com/zeegin/DesignPatterns/tree/master/Observer)
+- [Принципы ООП в 1С (pattern observer)](https://infostart.ru/1c/articles/858073/)
 ## Код
 
 ```

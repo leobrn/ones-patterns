@@ -13,8 +13,7 @@ description: Iterator and Composite
 - 
 
 ## Примеры
-- https://github.com/zeegin/DesignPatterns/tree/master/Iterator
-- https://infostart.ru/1c/tools/865839/
-- https://infostart.ru/1c/articles/1199427/
-
+- [zeegin:Iterator](https://github.com/zeegin/DesignPatterns/tree/master/Iterator)
+- [Принципы ООП в 1С (pattern Iterator)](https://infostart.ru/1c/tools/865839/)
+- [Качество кода: Поведенческие паттерны проектирования](https://infostart.ru/1c/articles/1199427/)
 ## Код

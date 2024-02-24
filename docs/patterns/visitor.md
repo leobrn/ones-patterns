@@ -16,7 +16,7 @@ description: Visitor
 - 
 
 ## Примеры
-- https://github.com/zeegin/DesignPatterns/tree/master/Visitor
-- https://infostart.ru/1c/articles/859264/
+- [zeegin:Visitor](https://github.com/zeegin/DesignPatterns/tree/master/Visitor)
+- [Принципы ООП в 1С (GoF pattern visitor)](https://infostart.ru/1c/articles/859264/)
 
 ## Код

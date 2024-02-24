@@ -16,6 +16,6 @@ description: Prototype
 - 
 
 ## Примеры
-- https://github.com/zeegin/DesignPatterns/tree/master/Prototype
+- [zeegin:Prototype](https://github.com/zeegin/DesignPatterns/tree/master/Prototype)
 
 ## Код

@@ -15,7 +15,6 @@ description: Mediator
 - 
 
 ## Примеры
-- https://github.com/zeegin/DesignPatterns/tree/master/Mediator
-- https://infostart.ru/1c/articles/1199427/
-
+- [zeegin:Mediator](https://github.com/zeegin/DesignPatterns/tree/master/Mediator)
+- [Качество кода: Поведенческие паттерны проектирования](https://infostart.ru/1c/articles/1199427/)
 ## Код
