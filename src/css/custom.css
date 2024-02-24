@@ -28,3 +28,13 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+.hero--grow {
+  flex-grow: 1;
+}
+
+@media screen and (max-width: 480px) {
+  .hero__title {
+    font-size: 2rem;
+  }
+}

@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 sidebar_label: MVC
-title: MVC
+title: Model-View-Controller
 description: Model-View-Controller
 ---
 ## Теория

@@ -62,9 +62,9 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'ones-patterns',
+        title: 'Паттерны в 1С',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Паттерны в 1С',
           src: 'img/logo.svg',
         },
         items: [
