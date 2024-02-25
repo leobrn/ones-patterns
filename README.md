@@ -4,7 +4,8 @@
 [leobrn.github.io/ones-patterns](https://leobrn.github.io/ones-patterns/)
 
 [![telegram](https://img.shields.io/badge/telegram-chat-green.svg)](http://t.me/ovmst)
-## Website
+
+---
 
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
