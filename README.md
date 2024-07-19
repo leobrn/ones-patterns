@@ -4,6 +4,9 @@
 [leobrn.github.io/ones-patterns](https://leobrn.github.io/ones-patterns/)
 
 [![telegram](https://img.shields.io/badge/telegram-chat-green.svg)](http://t.me/ovmst)
+[![Stars](https://img.shields.io/github/stars/leobrn/ones-patterns.svg?label=Github%20%E2%98%85&a)](https://github.com/leobrn/ones-patterns/stargazers)
+[![Release](https://img.shields.io/github/v/release/leobrn/ones-patterns?include_prereleases&label=last%20release&style=badge)](https://github.com/leobrn/ones-patterns/releases/latest)
+[![OpenYellow](https://img.shields.io/endpoint?url=https://openyellow.neocities.org/badges/3/723337321.json)](https://openyellow.notion.site/openyellow/24727888daa641af95514b46bee4d6f2?p=ea1fc8d0da7a42538849eed4b8a54383&amp;pm=s)
 
 ---
 
