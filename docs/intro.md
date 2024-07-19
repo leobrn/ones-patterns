@@ -5,7 +5,7 @@ title: Введение
 ---
 ## Паттерны
 
-1. [Стратегия](patterns/strategy)
+1. [Стратегия](./patterns/strategy)
 2. [Фабрика](patterns/factory_method)
 3. [Шаблонный метод](patterns/template_method)
 4. [Фасад](patterns/facade)
