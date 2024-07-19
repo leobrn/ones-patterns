@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkones_patterns=self.webpackChunkones_patterns||[]).push([[740],{1142:s=>{s.exports=JSON.parse('{"name":"@easyops-cn/docusaurus-search-local","id":"default"}')}}]);
